@@ -30,9 +30,9 @@
     }
 
     #menuA {
-      margin: 12px;
-      height: 5vh;
-      width: 14vw;
+      margin: 17px;
+      height: 4vh;
+      width: 11vw;
     }
 
     #menuAx {
@@ -68,6 +68,8 @@
       border: none;
       border-radius: 25px;
       background-color: #ffffff;
+    }
+    
     }
 
     #login {
@@ -144,6 +146,14 @@
     #cadss p {
       text-align: center;
     }
+    
+    #cadss span {
+      color: #551555;
+    }
+
+    #cadss a {
+      color: #551555;
+    }
 
     #cad {
       margin-bottom: 50px;
@@ -179,7 +189,7 @@
 
 
     .hp {
-      width: 100%;
+      width: 85%;
       margin: 10px;
       padding: 10px;
       display: flex;
